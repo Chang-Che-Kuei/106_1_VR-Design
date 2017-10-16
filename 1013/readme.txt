@@ -1,2 +1,2 @@
-Fall,2016
+Fall,2017
 Virtual Reality Design
